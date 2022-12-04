@@ -1,0 +1,12 @@
+Explication de l'utilisation de l'arcade.
+
+Tout d'abord, le Key-Binding est le suivant :
+
+    Menu                            = 'm'
+    Jeu suivant                     = 'p'
+    Jeu précedent                   = 'o'
+    Quitter l'arcade                = 'q'
+    Redemarrer l'arcade             = 'r'
+    Librairie graphique suivante    = 'z'
+    Librairie graphique précedente  = 'a'
+
