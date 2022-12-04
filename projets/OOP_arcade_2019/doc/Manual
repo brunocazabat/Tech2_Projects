@@ -1,0 +1,24 @@
+Explication de l'utilisation de l'arcade.
+
+Usage: (in case of)
+    ./arcade libs/lib_arcade_NCURSES.so  (for an NCURSES interface)
+    OR
+    ./arcade libs/lib_arcade_SFML.so     (for an SFML complex interface)
+    OR
+    ./arcade libs/lib_arcade_SDL.so      (for an SDL complex interface)
+
+Tout d'abord, le Key-Binding est le suivant :
+
+    Menu                            = 'E'
+    Valider le pseudo/jeu/Librairie = 'SPACE'
+    Quitter l'arcade                = 'ECHAP'
+    Librairie graphique suivante    = 'R'
+    Jeu suivant                     = 'T'
+
+Pour l'utilisation d'une nouvelle Librairie graphique :
+    Deposez là dans le dossier suivant : ~/libs
+    
+Pour l'utilisation d'un nouveau jeu :
+    Deposez le dans le dossier suivant : ~/games
+
+Et c'est tout je crois, pas trop compliqué d'utilisation =)
